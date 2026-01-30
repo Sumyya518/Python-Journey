@@ -23,21 +23,6 @@ print("Tuple:", coords)
 x,y,z = coords
 print("Unpacked:", x,y,z)
 
-# SET
-unique_vals = {1,2,3,4,4,5}
-print("Set:", unique_vals)
-unique_vals.add(6)
-unique_vals.remove(3)
-print("Updated Set:", unique_vals)
-
-# Set operations
-set_a = {1,2,3,4}
-set_b = {3,4,5,6}
-print("Union:", set_a | set_b)
-print("Intersection:", set_a & set_b)
-print("Difference:", set_a - set_b)
-print("Symmetric Difference:", set_a ^ set_b)
-
 # DICTIONARY
 student = {"name":"Sara","roll":21,"course":"Python","marks":89}
 print("Student dict:", student)
