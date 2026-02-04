@@ -1,5 +1,5 @@
 """
-PYTHON COURSE — MODULES 3 
+PYTHON COURSE — MODULE 3 
 Covers: Strings
 """
 
