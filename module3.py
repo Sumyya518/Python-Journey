@@ -1,6 +1,6 @@
 """
-PYTHON COURSE — CORE MODULES (3 TO 8)
-Covers: Strings, Lists, Tuples, Sets, Dictionaries, Functions, File Handling, OOP, Exception Handling
+PYTHON COURSE — MODULES 3 
+Covers: Strings
 """
 
 # ======================================================
